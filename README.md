@@ -16,7 +16,7 @@
 
 - 📝 I'm often active on LinkedIn [https://www.linkedin.com/in/petr-vitula-83449a259/](https://www.linkedin.com/in/petr-vitula-83449a259/)
 
-- 💬 Ask me about **python, c, sql, css, html**
+- 💬 Ask me about **python, C, sql, css, html**
 
 - 📫 How to reach me **petr.vitula94@gmail.com**
 
