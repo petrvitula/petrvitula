@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **python, C, sql, css, html**
 
-- 📫 How to reach me **petr.vitula94@gmail.com**
+- 📫 How to reach me **LinkedIn**
 
 - 📄 Personal Web-crossroad [petrvitula.cz](petrvitula.cz)
 
