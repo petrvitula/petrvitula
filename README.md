@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **LinkedIn**
 
-- 📄 Personal Web-crossroad [petrvitula.cz](petrvitula.cz)
+- 📄 Personal Web-crossroad [petrvitula.cz](www.petrvitula.cz)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
