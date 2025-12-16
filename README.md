@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently studying at [FIT VUT](https://www.fit.vut.cz/)
 
-- 🌱 I’m currently learning **JavaScript & C**
-
 - 👯 I’m looking to collaborate on **full-stack projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/petrvitula](https://github.com/petrvitula)
@@ -19,8 +17,6 @@
 - 💬 Ask me about **python, C, sql, css, html**
 
 - 📫 How to reach me **LinkedIn**
-
-- 📄 Personal Web-crossroad [petrvitula.cz](www.petrvitula.cz)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
