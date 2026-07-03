@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="cs">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Živáčci — umělý život</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🧬</text></svg>" />
+    <link rel="stylesheet" href="/src/style.css" />
+  </head>
+  <body>
+    <div id="app">
+      <canvas id="world-canvas"></canvas>
+
+      <header id="hud" class="panel">
+        <div class="hud-title">🧬 Živáčci</div>
+        <div class="hud-stat"><span class="label">Populace</span><span id="stat-population">0</span></div>
+        <div class="hud-stat"><span class="label">Den</span><span id="stat-day">0</span></div>
+        <div class="hud-stat"><span class="label">Generace</span><span id="stat-generation">0</span></div>
+        <div class="hud-sep"></div>
+        <div class="speed-controls" id="speed-controls">
+          <button data-speed="0" class="speed-btn" title="Pauza">⏸</button>
+          <button data-speed="1" class="speed-btn active" title="1×">1×</button>
+          <button data-speed="2" class="speed-btn" title="2×">2×</button>
+          <button data-speed="4" class="speed-btn" title="4×">4×</button>
+          <button data-speed="8" class="speed-btn" title="8×">8×</button>
+        </div>
+        <div class="hud-sep"></div>
+        <button id="btn-throw-food" class="action-btn" title="Hoď jídlo do světa (pak klikni na plátno)">🍎 Hoď jídlo</button>
+        <button id="btn-dashboard" class="action-btn" title="Evoluční dashboard">📈 Evoluce</button>
+        <button id="btn-save" class="action-btn" title="Ulož svět">💾</button>
+        <button id="btn-load" class="action-btn" title="Načti svět">📂</button>
+      </header>
+
+      <aside id="inspector" class="panel hidden">
+        <button id="inspector-close" class="close-btn">✕</button>
+        <div id="inspector-content"></div>
+      </aside>
+
+      <section id="dashboard" class="panel hidden">
+        <button id="dashboard-close" class="close-btn">✕</button>
+        <h2>📈 Evoluční dashboard</h2>
+        <div class="dashboard-chart">
+          <h3>Populace v čase</h3>
+          <canvas id="chart-population" width="560" height="160"></canvas>
+        </div>
+        <div class="dashboard-chart">
+          <h3>Průměrné geny napříč generacemi</h3>
+          <canvas id="chart-genes" width="560" height="200"></canvas>
+          <div id="gene-legend" class="gene-legend"></div>
+        </div>
+      </section>
+
+      <footer id="hint" class="panel">
+        Klikni na živáčka pro detail · táhni plátno pro posun · kolečko pro zoom
+      </footer>
+    </div>
+    <input type="file" id="load-file-input" accept="application/json" style="display: none" />
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
