@@ -1,5 +1,6 @@
 <h1 align="center">Hey 👋, I'm Petr Vitula</h1>
 <h3 align="center">A passionate software developer from Czech Republic.</h3>
+<p align="center">🎓 Studuju IT na FIT VUT · 💻 teď tvrdě makám na C++ · 📈 financial trader — opce, akcie, futures, orderflow</p>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif">
 
@@ -14,7 +15,7 @@
 
 - 📝 I'm often active on LinkedIn [https://www.linkedin.com/in/petr-vitula-83449a259/](https://www.linkedin.com/in/petr-vitula-83449a259/)
 
-- 💬 Ask me about **python, C, sql, css, html**
+- 💬 Ask me about **python, C, C++, sql**
 
 - 📫 How to reach me **LinkedIn**
 
