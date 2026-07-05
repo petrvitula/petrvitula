@@ -31,19 +31,20 @@
 - **[personal_web_crossroad](https://github.com/petrvitula/personal_web_crossroad)** – osobní web
 - **[string_to_ascii_art](https://github.com/petrvitula/string_to_ascii_art)** – převod textu na ASCII art
 
-🔒 Soukromé / rozpracované projekty (bez veřejného odkazu):
+#### 🔒 Soukromé / rozpracované projekty (bez veřejného odkazu)
+
 - **senior-taxi** – Rezervační systém pro senior taxi (Next.js + Supabase)
-- **orel_zidlochovice**
-- **jurta-trilobit-web**
-- **learnos**
-- **analyticks**
-- **sport-eshop**
-- **3d-globe-feed**
-- **exodus-system**
-- **vision-gesture-control**
-- **eulerian-video-magnification**
-- **aritificial-life-sim**
-- **personal**
+- **orel_zidlochovice** – Web pro Orel Jednotu Židlochovice — sport, kultura, komunita (Next.js + Sanity CMS)
+- **jurta-trilobit-web** – Prezentační web pro pronájem jurty v Cholticích (Next.js)
+- **learnos** – LearnOS — aplikace pro hluboké učení a záměrné opakování látky (Next.js + Supabase)
+- **analyticks** – Analyticks.ai — platforma pro trading analýzy a obchodní deník (Next.js)
+- **sport-eshop** – Coleman Supplies — e-shop se sportovní výživou a doplňky (HTML/CSS)
+- **3d-globe-feed** – TERRA — interaktivní 3D glóbus s živými daty (zemětřesení, satelity, letadla…) (Next.js + Three.js)
+- **exodus-system** – Exodus — osobní AI asistent s hlasovým ovládáním, pamětí a 3D HUD (Python/FastAPI + React Three Fiber)
+- **vision-gesture-control** – Gesture Mouse — ovládání kurzoru myši gesty ruky přes webkameru (Python, MediaPipe)
+- **eulerian-video-magnification** – Vidět neviditelné — zviditelnění tepu a mikropohybů ve videu pomocí EVM + rPPG (Python)
+- **aritificial-life-sim** – Živáčci — artificial-life sandbox s emergentním chováním, klany a evolucí (TypeScript)
+- **personal** – Sbírka algoritmů a cvičných skriptů z učení programování (Python)
 
 ## 🎓 University Projects
 
